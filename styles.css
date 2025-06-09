@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(184, 227, 248);
+    font-display: swap;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color:aliceblue;
+    max-width: 300px;
+    margin: 0 auto;
+    padding-top: 0;
+    border-radius: 20px;
+    box-shadow: 0 4px 10px rgb(0, 0, 0, 0.2);    
+}
+.avatar {
+    height: 150px;
+    width: 150px;
+    padding: 4px;
+    border-radius: 50%;
+    margin: 0 auto; 
+    object-fit: cover;
+    border: 4px solid white;
+    margin-top: -50px;
+}
+h2 {
+    font-family:Montserrat;
+    font-size: 2.5rem;
+    padding-bottom: 5px;
+    font-weight: 700;
+}
+.job {
+    font-family:Montserrat;
+    font-style: italic;
+    font-size: 1.3rem;
+    margin-top: -20px;
+    font-weight: 400;
+}
+.location {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    font-family:Montserrat;
+    padding-bottom: 5px;
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #4CAF50;
+    border-radius: 8px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 12px;
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.btn:hover {
+    background-color: rgb(0, 150, 0);
+}
+.material-symbols-outlined {
+    font-size: 1.1rem;
+}
+.card:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.25);
+  transform: scale(1.02);
+  transition: all 0.3s ease;
+}
+.card-banner {
+    background-image: url(https://wallup.net/wp-content/uploads/2016/01/197616-mist-forest-sunlight-trees-grass-sunbeams-path-nature-green-yellow-landscape.jpg);
+    height: 150px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
