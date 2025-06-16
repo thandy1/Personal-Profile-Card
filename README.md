@@ -2,7 +2,7 @@
 
 A responsive, interactive profile card built using HTML and CSS. Created as a practice project after completing the first 70 steps of the freeCodeCamp CSS curriculum.
 
-## ✨ Features
+## Features
 
 - Custom Google Fonts (`Montserrat`)
 - Material icon for location
@@ -11,14 +11,14 @@ A responsive, interactive profile card built using HTML and CSS. Created as a pr
 - Clean layout with Flexbox
 - Hover effects on card and button
 
-## 🛠 Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
 - Google Fonts & Material Symbols
 - Flexbox
 
-## 🎯 What I Practiced
+## What I Practiced
 
 - Flexbox layout and alignment
 - `background-image` and `object-fit`
@@ -26,6 +26,6 @@ A responsive, interactive profile card built using HTML and CSS. Created as a pr
 - Box shadows and hover effects
 - Layering and visual design
 
-## 🔗 Live Demo
+## Live Demo
 
-[👉 View it on GitHub Pages](https://thandy1.github.io/Personal-Profile-Card/)
+[View it on GitHub Pages](https://thandy1.github.io/Personal-Profile-Card/)
